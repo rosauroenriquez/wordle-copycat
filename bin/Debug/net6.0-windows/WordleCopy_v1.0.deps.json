@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WordleCopy_v1.0/1.0.0": {
+        "runtime": {
+          "WordleCopy_v1.0.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WordleCopy_v1.0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

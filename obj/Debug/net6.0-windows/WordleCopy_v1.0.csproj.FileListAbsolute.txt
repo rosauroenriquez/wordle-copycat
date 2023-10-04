@@ -1,0 +1,55 @@
+E:\MSSA\Class Work\classwork\assignments\Ross\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\bin\Debug\net6.0-windows\WordleCopy_v1.0.exe
+E:\MSSA\Class Work\classwork\assignments\Ross\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\bin\Debug\net6.0-windows\WordleCopy_v1.0.deps.json
+E:\MSSA\Class Work\classwork\assignments\Ross\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\bin\Debug\net6.0-windows\WordleCopy_v1.0.runtimeconfig.json
+E:\MSSA\Class Work\classwork\assignments\Ross\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\bin\Debug\net6.0-windows\WordleCopy_v1.0.dll
+E:\MSSA\Class Work\classwork\assignments\Ross\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\bin\Debug\net6.0-windows\WordleCopy_v1.0.pdb
+E:\MSSA\Class Work\classwork\assignments\Ross\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\WordleCopy_v1.0.csproj.AssemblyReference.cache
+E:\MSSA\Class Work\classwork\assignments\Ross\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\View\UserControls\MyTextBox.baml
+E:\MSSA\Class Work\classwork\assignments\Ross\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\MSSA\Class Work\classwork\assignments\Ross\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\View\ResultView.g.cs
+E:\MSSA\Class Work\classwork\assignments\Ross\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\View\UserControls\LastTile.g.cs
+E:\MSSA\Class Work\classwork\assignments\Ross\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\View\UserControls\MyTextBox.g.cs
+E:\MSSA\Class Work\classwork\assignments\Ross\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\App.g.cs
+E:\MSSA\Class Work\classwork\assignments\Ross\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\MSSA\Class Work\classwork\assignments\Ross\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\WordleCopy_v1.0_MarkupCompile.cache
+E:\MSSA\Class Work\classwork\assignments\Ross\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\WordleCopy_v1.0_MarkupCompile.lref
+E:\MSSA\Class Work\classwork\assignments\Ross\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\MainWindow.baml
+E:\MSSA\Class Work\classwork\assignments\Ross\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\View\ResultView.baml
+E:\MSSA\Class Work\classwork\assignments\Ross\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\View\UserControls\LastTile.baml
+E:\MSSA\Class Work\classwork\assignments\Ross\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\WordleCopy_v1.0.g.resources
+E:\MSSA\Class Work\classwork\assignments\Ross\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\WordleCopy_v1.0.GeneratedMSBuildEditorConfig.editorconfig
+E:\MSSA\Class Work\classwork\assignments\Ross\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\WordleCopy_v1.0.AssemblyInfoInputs.cache
+E:\MSSA\Class Work\classwork\assignments\Ross\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\WordleCopy_v1.0.AssemblyInfo.cs
+E:\MSSA\Class Work\classwork\assignments\Ross\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\WordleCopy_v1.0.csproj.CoreCompileInputs.cache
+E:\MSSA\Class Work\classwork\assignments\Ross\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\WordleCopy_v1.0.dll
+E:\MSSA\Class Work\classwork\assignments\Ross\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\refint\WordleCopy_v1.0.dll
+E:\MSSA\Class Work\classwork\assignments\Ross\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\WordleCopy_v1.0.pdb
+E:\MSSA\Class Work\classwork\assignments\Ross\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\WordleCopy_v1.0.genruntimeconfig.cache
+E:\MSSA\Class Work\classwork\assignments\Ross\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\ref\WordleCopy_v1.0.dll
+E:\Source\Repo\NewRepo\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\bin\Debug\net6.0-windows\WordleCopy_v1.0.exe
+E:\Source\Repo\NewRepo\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\bin\Debug\net6.0-windows\WordleCopy_v1.0.deps.json
+E:\Source\Repo\NewRepo\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\bin\Debug\net6.0-windows\WordleCopy_v1.0.runtimeconfig.json
+E:\Source\Repo\NewRepo\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\bin\Debug\net6.0-windows\WordleCopy_v1.0.dll
+E:\Source\Repo\NewRepo\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\bin\Debug\net6.0-windows\WordleCopy_v1.0.pdb
+E:\Source\Repo\NewRepo\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\View\UserControls\MyTextBox.baml
+E:\Source\Repo\NewRepo\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Source\Repo\NewRepo\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\View\ResultView.g.cs
+E:\Source\Repo\NewRepo\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\View\UserControls\LastTile.g.cs
+E:\Source\Repo\NewRepo\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\View\UserControls\MyTextBox.g.cs
+E:\Source\Repo\NewRepo\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\App.g.cs
+E:\Source\Repo\NewRepo\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\Source\Repo\NewRepo\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\WordleCopy_v1.0_MarkupCompile.cache
+E:\Source\Repo\NewRepo\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\WordleCopy_v1.0_MarkupCompile.lref
+E:\Source\Repo\NewRepo\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Source\Repo\NewRepo\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\View\ResultView.baml
+E:\Source\Repo\NewRepo\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\View\UserControls\LastTile.baml
+E:\Source\Repo\NewRepo\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\WordleCopy_v1.0.g.resources
+E:\Source\Repo\NewRepo\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\WordleCopy_v1.0.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source\Repo\NewRepo\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\WordleCopy_v1.0.AssemblyInfoInputs.cache
+E:\Source\Repo\NewRepo\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\WordleCopy_v1.0.AssemblyInfo.cs
+E:\Source\Repo\NewRepo\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\WordleCopy_v1.0.csproj.CoreCompileInputs.cache
+E:\Source\Repo\NewRepo\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\WordleCopy_v1.0.dll
+E:\Source\Repo\NewRepo\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\refint\WordleCopy_v1.0.dll
+E:\Source\Repo\NewRepo\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\WordleCopy_v1.0.pdb
+E:\Source\Repo\NewRepo\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\WordleCopy_v1.0.genruntimeconfig.cache
+E:\Source\Repo\NewRepo\Projects\Project 1\Project_1_WordleCopyCat_WPF\WordleCopy_v1.0\obj\Debug\net6.0-windows\ref\WordleCopy_v1.0.dll

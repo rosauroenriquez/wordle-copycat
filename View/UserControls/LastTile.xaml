@@ -1,0 +1,23 @@
+﻿<TextBox x:Class="WordleCopy_v1._0.View.UserControls.LastTile"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WordleCopy_v1._0.View.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800"
+         
+             FontSize="28"
+             FontWeight="bold"
+             MinWidth="25"
+             TextAlignment="Center" VerticalContentAlignment="Center" Foreground="White" Background="#FF3C3232" 
+             BorderBrush="#FF9098B1" BorderThickness="0" Margin="1,3,1,3" CharacterCasing="Upper" MaxLength="1" IsHitTestVisible="False" IsTabStop="False">
+    
+    <TextBox.Resources>
+            <Style TargetType="{x:Type Border}">
+                <Setter Property="CornerRadius" Value="3"/>
+        </Style>
+        
+    </TextBox.Resources>
+        
+</TextBox>
